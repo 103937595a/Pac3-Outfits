@@ -23,7 +23,7 @@
 						["UniqueID"] = "3691564145",
 						["Length"] = 10,
 						["Name"] = "trail 3",
-						["EndColor"] = Vector(0, 161, 255),
+					q	["EndColor"] = Vector(0, 161, 255),
 					},
 				},
 				[3] = {
